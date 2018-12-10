@@ -38,7 +38,7 @@ Ideas from https://github.com/nucleus-network/missioninfo
 --->
   
 ### What else is going on with Openscapes?
-<p>As we give academic seminars and other talks, the slides are available [here](https://github.com/Openscapes/slides). We also started blogging at <https://medium.com/@openscapes>.</p> 
+<p>As we give academic seminars and other talks, the slides are available [here](https://github.com/Openscapes/slides). We also started blogging at https://medium.com/@openscapes.</p> 
 
 <!---
 Ideas from https://github.com/nucleus-network/missioninfo
